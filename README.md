@@ -1,8 +1,11 @@
-# flutter1
+# MYHQ
 
 A new Flutter application.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Patient looks for the medical clinic in the vicinity 
+
+Alternatively he searches  for the specific clinic 
+
+Books his slot in the clinic. 
